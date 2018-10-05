@@ -1,5 +1,5 @@
 ## FCC-Calculator
-##### Calculator project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+##### Calculator project for [freecodecamp.org](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Calculator/)
 
 <br/>
